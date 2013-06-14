@@ -1,0 +1,7 @@
+PS3 Dualshock Controller connected to Hobbytronics USB Host
+
+This is an example Arduino Program to demonstrate reading the PS3 Controller data from the USB Host Board
+See PS3 Controller product page (http://www.hobbytronics.co.uk/ps3-controller) and
+USB Host product page (http://www.hobbytronics.co.uk/usb-host-board-v2)
+
+Version 1.00	Initial Release
